@@ -3,6 +3,9 @@
 ##### Dataset : Bitcoin dataset
 
 ##### Language: Python,Jupyter Notebook
+
+#### Models : LDA, Logistic Regression Model , K - Nearest Neighbors(KNN) , Linear Regression , EDA
+
 #### Libraries:
 
 - **Pandas:** For data manipulation and analysis.
