@@ -8,7 +8,6 @@
 
 #### Libraries:
 
-- **Pandas:** For data manipulation and analysis.
 - **pandas**: Provides data structures and data analysis tools for handling and manipulating structured data.
 - **numpy**: Supports numerical operations and efficient array computations.
 - **matplotlib.pyplot**: Enables creating static, interactive, and animated visualizations in Python.
