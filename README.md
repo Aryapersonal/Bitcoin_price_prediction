@@ -1,8 +1,40 @@
 # Bitcoin Price Prediction Using Machine Learning
 
+##### Dataset : Bitcoin dataset
+
+##### Language: Python,Jupyter Notebook
+#### Libraries:
+
+- **Pandas:** For data manipulation and analysis.
+- **pandas**: Provides data structures and data analysis tools for handling and manipulating structured data.
+- **numpy**: Supports numerical operations and efficient array computations.
+- **matplotlib.pyplot**: Enables creating static, interactive, and animated visualizations in Python.
+- **seaborn**: Simplifies creating informative and attractive statistical graphics.
+- **sklearn.model_selection**: Provides tools for splitting data and performing cross-validation.
+- **sklearn.preprocessing**: Includes methods for feature scaling and preprocessing data.
+- **sklearn.impute**: Offers strategies for handling missing data through imputation.
+- **sklearn.discriminant_analysis**: Implements Linear Discriminant Analysis for classification.
+- **sklearn.metrics**: Contains functions for evaluating model performance, including confusion matrix and accuracy score.
+- **sklearn.linear_model**: Includes various linear models for regression and classification tasks.
+- **sklearn.neighbors**: Provides the K-Nearest Neighbors algorithm for classification and regression.
+
+
 ## Project Overview
 
 This project focuses on predicting Bitcoin prices using various machine learning models to evaluate their performance and reliability. The primary models used are  including LDA ,Logistic Regression, K-Nearest Neighbors (KNN), and Linear Regression. The goal is to determine which model provides the most accurate and reliable predictions for Bitcoin market prices.
+
+**Table of Contents**
+
+1. [Overview](#overview)
+2. [Installation](#installation)
+3. [Visualizations and Insights](#visualizations-insights)
+4. [Key Insights](#key-insights)
+5. [Conclusion](#conclusion)
+6. [Author Information](#Author-Information)
+
+
+## Installation
+To run this project,  you will need Python and Jupyter Notebook installed on your system.
 
 ## Visualization & Insights:
 
@@ -138,7 +170,7 @@ The project demonstrates that KNN is the most effective model for predicting Bit
 
 Overall, KNN emerged as the best model, providing accurate and reliable predictions, while Linear Regression was less effective due to its inability to capture complex data relationships.
 
-## AUTHOR : ARYA S 
-## Ping me :www.linkedin.com/in/arya-dataanalyst
-## Thank You for reading!
+### AUTHOR : ARYA S 
+### Ping me :www.linkedin.com/in/arya-dataanalyst
+### Thank You for reading!
 
